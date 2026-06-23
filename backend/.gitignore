@@ -1,0 +1,11 @@
+.env
+
+data/
+
+output.txt
+
+input.txt
+
+.ipynb_checkpoints/
+
+menv/

@@ -1,0 +1,3 @@
+kbotenv/
+.env
+kbot_sessions.db
