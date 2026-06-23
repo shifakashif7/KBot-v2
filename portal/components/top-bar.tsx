@@ -18,7 +18,7 @@ export default function TopBar() {
         </div>
         <h1 className="text-[#8f0e0e] text-xl font-semibold">
           <Link href="/" className="no-underline hover:text-[#a51212] transition-colors">
-            KBot 1.0
+            KBot
           </Link>
         </h1>
       </div>

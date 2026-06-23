@@ -96,8 +96,7 @@ KBot/
 
 ```bash
 # Clone the repository
-git clone https://github.com/maham-a-awais/KBot.git
-cd KBot
+cd KBot-v2
 
 # Install Python dependencies
 pip install -r requirements.txt

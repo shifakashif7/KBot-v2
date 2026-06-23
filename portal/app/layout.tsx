@@ -11,7 +11,7 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "KBot 1.0",
+  title: "KBot",
   description: "AI Chatbot Assistant",
   generator: "v0.dev",
   icons: {
